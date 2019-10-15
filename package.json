@@ -2,6 +2,10 @@
   "name": "moja-aplikacja",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.4.1n",
+    "node": "10.15.3"
+  },
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
